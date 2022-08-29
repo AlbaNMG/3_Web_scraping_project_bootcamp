@@ -25,7 +25,6 @@ You then must organize, clean and analyse the data you find and present your fin
 
 - Learn how to develop an interesting question and find the data to answer it.
 - Learn how to obtain data from different sources, including APIs, open source datasets and/or scrape data from the web.
-- Build a database from the data you find for the whole team to use.
-- Explain more complex arguments with plots.
+- Create a product
 
 <a name="requirements"></a>
