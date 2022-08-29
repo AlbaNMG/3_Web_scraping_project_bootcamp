@@ -5,19 +5,6 @@
 In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
 
-## Content
-
-- [Project Description](#project-description)
-- [Project Goals](#project-goals)
-- [Requirements](#requirements)
-- [Deliverables](#deliverables)
-- [Mentoring](#mentoring)
-- [Schedule](#schedule)
-- [Json Structure](#json-structure)
-- [Presentation](#presentation)
-- [Tips & Tricks](#tips-&-tricks)
-- [Resources](#resources)
-
 <a name="project-description"></a>
 
 ## Project Description
