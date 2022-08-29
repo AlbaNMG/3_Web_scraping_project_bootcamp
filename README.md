@@ -1,5 +1,3 @@
-# Web_scraping_project_bootcamp
-
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
 # Welcome to the Data Thieves Project!
