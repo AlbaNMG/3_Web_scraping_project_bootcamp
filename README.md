@@ -1,4 +1,12 @@
-<img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
+# Overview
+
+For this project, we created L.earn. We based our app on 4 main pillars: Learning, Earning, Playing, and Contributing. 
+
+- Forget about infinite scrolling on social media everyday, and L.earn something useful!
+- Get L.COINS while learning. Accomplish daily activities and challenges in order to increase earnings.
+- Even if you don’t want to L.earn, for whatever reason, you may also play ( and L.earn )
+- Stake our tokens to contribute to our education projects. Exchange them for unique rewards such as NFT, discounts, and free stuff!
+
 
 # Welcome to the Data Thieves Project!
 
