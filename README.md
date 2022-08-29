@@ -8,14 +8,12 @@ For this project, we created L.earn. We based our app on 4 main pillars: Learnin
 - Stake our tokens to contribute to our education projects. Exchange them for unique rewards such as NFT, discounts, and free stuff!
 
 
-# Welcome to the Data Thieves Project!
+#  Project Description
 
 In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
 
 <a name="project-description"></a>
-
-## Project Description
 
 In this project, you will choose a topic and find all the relevant data yourself from Kaggle.
 Afterwards, you should enrich it by connecting to an API, find a dataset or scrape data from the web.
